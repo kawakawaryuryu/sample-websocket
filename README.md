@@ -23,5 +23,5 @@ $ node client.js
 - [ いまさら聞けないWebSocketとSocket.IOの基礎知識＆インストール：Socket.IOで始めるWebSocket超入門（1） - ＠IT](http://www.atmarkit.co.jp/ait/articles/1603/14/news015.html)
 
 ### Chat Application
-- [ いまさら聞けないWebSocketとSocket.IOの基礎知識＆インストール：Socket.IOで始めるWebSocket超入門（1） - ＠IT](http://www.atmarkit.co.jp/ait/articles/1603/14/news015.html)
+- [ チャットアプリ開発に見る、Socket.IOの基本ライブラリの使い方：Socket.IOで始めるWebSocket超入門（2） - ＠IT](http://www.atmarkit.co.jp/ait/articles/1604/27/news026.html)
 - [チャットを作りながら学ぶSocket.IO〈Node.jsシリーズ vol.4〉 - Tech Blog - Recruit Lifestyle Engineer](https://engineer.recruit-lifestyle.co.jp/techblog/2015-07-29-node4/)
