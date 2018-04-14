@@ -17,8 +17,10 @@ function handler(req, res) {
 }
 
 io.on('connection', (socket) => {
-  socket.emit('news', { hello: 'world' });
-  socket.on('my other event', (data) => {
+  // receive
+  socket.on('chat', (data) => {
     console.log(data);
+    // send
+    io.sockets.emit('news', data);
   });
 });
